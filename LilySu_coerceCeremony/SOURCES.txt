@@ -1,0 +1,9 @@
+README.md
+setup.py
+LilySu_coerceCeremony/__init__.py
+LilySu_coerceCeremony/df_utils.py
+LilySu_coerceCeremony.egg-info/PKG-INFO
+LilySu_coerceCeremony.egg-info/SOURCES.txt
+LilySu_coerceCeremony.egg-info/dependency_links.txt
+LilySu_coerceCeremony.egg-info/requires.txt
+LilySu_coerceCeremony.egg-info/top_level.txt
